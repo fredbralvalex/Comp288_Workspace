@@ -21,3 +21,34 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+#Some Projects
+**/Exercise1
+**/RandomDemoApplication
+**/.metadata
+**/Exercise2
+**/AccountApplication
+**/Exercise3
+**/RemoteSystemsTempFiles
+**/AdditionApplication
+**/FirstJavaFxApplication
+**/ShapeApplication
+**/AdditionApplication_exist
+**/FredericoAlexandre
+**/SphereApplication
+**/ArrayDemoApplication
+**/template
+**/AssignmentLab1
+**/FredericoAlexandre_COMP288TestW2018
+**/TestConnection.zip_expanded
+**/AssignmentLab2
+**/HelloWorldApplication
+**/TestConnectionFX.zip_expanded
+**/AssignmentLab3
+**/HelloWorldApplication2
+**/TestDatabaseConnection
+**/AssignmentLab4
+**/JavaFXExercise2
+**/Time1Application
+**/AssignmentLab6
+**/JavaFXMVC
