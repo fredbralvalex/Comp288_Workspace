@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JavaFxSceneBuilder/baby_polar_bear__by_woxys-d2ywvl6.jpg&apos; to &apos;babypolarbear.jpg&apos;" description="Rename resource &apos;baby_polar_bear__by_woxys-d2ywvl6.jpg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="baby_polar_bear__by_woxys-d2ywvl6.jpg" name="babypolarbear.jpg" stamp="1521504555346" updateReferences="true"/>
+</session>

@@ -1,0 +1,8 @@
+1521056557318	Copy compilation unit
+1521057534226	Rename method 'printBooks'
+1521057545618	Rename local variable 'books'
+1521057552641	Rename local variable 'booksStr'
+1521057713503	Rename type 'Gender'
+1521057844663	Rename local variable 'gender'
+1521058601873	Copy compilation unit
+1521058665995	Rename local variable 'typeString'

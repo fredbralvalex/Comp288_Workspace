@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;application.MainController.OKHandlerClass&apos; to &apos;ShowHandlerClass&apos;&#x0D;&#x0A;- Original project: &apos;JavaFXExercise2&apos;&#x0D;&#x0A;- Original element: &apos;application.MainController.OKHandlerClass&apos;&#x0D;&#x0A;- Renamed element: &apos;application.MainController.ShowHandlerClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;OKHandlerClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;application{MainController.java[MainController[OKHandlerClass" matchStrategy="1" name="ShowHandlerClass" qualified="false" references="true" similarDeclarations="false" stamp="1522106649853" textual="false" version="1.0"/>
+</session>
